@@ -3,10 +3,11 @@
 
 ----------------------------------------------------------------
 # 🧠 How I Approached the Problem ---
+----------------------------------------------------------------
 
 
 # 1️⃣ Data Understanding & Preparation
-# Dataset Telco Customer Churn dataset (Kaggle)
+# Telco Customer Churn dataset (Kaggle)
   Link- https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
 # Consumer Complaints (Kaggle)
   Link- https://www.kaggle.com/datasets/selener/consumer-complaint-database
