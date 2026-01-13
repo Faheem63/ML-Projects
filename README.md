@@ -1,6 +1,9 @@
-# End To End Customer Churn Prediction Using Machine Learning ---------------
+# End To End Customer Churn Prediction Using Machine Learning -
 
+
+-------------------------------------------------------------------------------------------
 # 🧠 How I Approached the Problem ---
+
 
 # 1️⃣ Data Understanding & Preparation
 # Dataset Telco Customer Churn dataset (Kaggle)
@@ -9,9 +12,13 @@
   Link- https://www.kaggle.com/datasets/selener/consumer-complaint-database
   
   Analyzed numerical and categorical features
+  
   Checked class imbalance and churn patterns
+  
   Handled missing values and cleaned incorrect data types
+  
   Removed outliers using the IQR method
+  
   Performed EDA to understand key churn drivers
   
 # 2️⃣ Feature Engineering
